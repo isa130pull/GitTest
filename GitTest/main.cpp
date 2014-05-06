@@ -12,7 +12,7 @@ int main(int argc, const char * argv[])
 {
 
     // insert code here...
-    std::cout << "こんにちは、世界!!!!だよ\n";
+    std::cout << "Hello, World!\n";
     return 0;
 }
 
